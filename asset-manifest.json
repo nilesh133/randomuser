@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/randomuser/static/css/main.65aa7986.css",
+    "main.js": "/randomuser/static/js/main.bef9ae54.js",
+    "static/media/logo.png": "/randomuser/static/media/logo.fb59dfc6bb1bac6b0ad0.png",
+    "index.html": "/randomuser/index.html",
+    "main.65aa7986.css.map": "/randomuser/static/css/main.65aa7986.css.map",
+    "main.bef9ae54.js.map": "/randomuser/static/js/main.bef9ae54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65aa7986.css",
+    "static/js/main.bef9ae54.js"
+  ]
+}
